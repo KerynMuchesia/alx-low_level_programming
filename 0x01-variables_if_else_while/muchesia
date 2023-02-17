@@ -18,15 +18,11 @@ vi $file_name
 
 
 
-chmod u+x $file_name
-
-
-
 git add .
 
 
 
-git commit -m 'alx-low_level_programming'
+git commit -m '0x01-variables_if_else_while'
 
 
 
