@@ -1,7 +1,6 @@
-#include <stdio.h>
+#include "main.h"
 
-/**
- * Main program that prints _putchar
+/**program that prints _putchar
  * followed by a new line
  * Return: 0 (Success)
  */
