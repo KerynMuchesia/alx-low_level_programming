@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *  _islower: function that checks for lowercase character
- *  c: character
- *  Return: 0 (Success)
+ *  _islower - check if char is lowercase
+ *  @c: character
+ *  Return: 1 if char is lowercase, otherwise 0
  */
 
 int _islower(int c)
