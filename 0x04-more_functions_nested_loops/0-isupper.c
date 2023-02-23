@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - check the code.
- *
+ * _isupper - checks for uppercase character
+ * @c: Variable text
  * Return: Always 0.
  */
 int main(int c)
