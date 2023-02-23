@@ -5,7 +5,6 @@
  *
  * Return: Always 0.
  */
-
 void print_numbers(void)
 {
 	int c;
@@ -14,5 +13,5 @@ void print_numbers(void)
 	{
 		_putchar(c);
 	}
-	_putchar("\n");
+		_putchar('\n');
 }
