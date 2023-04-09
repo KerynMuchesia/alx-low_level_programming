@@ -1,4 +1,4 @@
-#include "MANIPULATION.H"
+#include "main.h"
 
 /**
  * binary_to_uint - converts a binary number to unsigned int
